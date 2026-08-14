@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Current Research: HippoGraph Pro
+## 🧠 Current Research: Seventh Wall Lab  - We give agents memory — the kind experience grows out of.
 *Self-hosted, graph-based associative memory for AI agents. Zero LLM cost. Zero cloud.*
 
 | Project | Description |
@@ -36,7 +36,7 @@ Core banking features, MVI architecture, Jetpack Compose at scale. 20+ years in 
 | :--- | :--- |
 | **Mobile** | Kotlin, Jetpack Compose, Clean Architecture, MVI, TFLite |
 | **AI / Memory** | Spreading Activation, GraphRAG, MCP, GLiNER2, BGE-M3, HNSWlib, BM25 |
-| **Infrastructure** | Docker, Python, FastAPI, SQLite, NetworkX, Mac Studio M3 Ultra |
+| **Infrastructure** | Docker, Python, FastAPI, SQLite, NetworkX |
 
 ---
 
