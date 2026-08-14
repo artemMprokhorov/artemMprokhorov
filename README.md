@@ -1,5 +1,5 @@
 # Hi there, I'm Artem! 🚀
-### Senior Android Engineer · Building AI Memory Systems
+### AI-native Android Engineer | AI Memory Architect & Researcher
 *Persistent memory architectures for AI agents — from graph theory to working systems.*
 
 ---
@@ -34,9 +34,9 @@ Core banking features, MVI architecture, Jetpack Compose at scale. 20+ years in 
 ## 🛠 Tech Stack
 | Area | Technologies |
 | :--- | :--- |
-| **Mobile** | Kotlin, Jetpack Compose, Clean Architecture, MVI, TFLite |
+| **Mobile** | Kotlin, Jetpack Compose, Clean Architecture |
 | **AI / Memory** | Spreading Activation, GraphRAG, MCP, GLiNER2, BGE-M3, HNSWlib, BM25 |
-| **Infrastructure** | Docker, Python, FastAPI, SQLite, NetworkX |
+| **Infrastructure** | Rust, Docker, Python, FastAPI, SQLite, NetworkX |
 
 ---
 
