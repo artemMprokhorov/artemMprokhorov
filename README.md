@@ -1,6 +1,6 @@
 # Hi there, I'm Artem! 🚀
 
-### AI-native Android Engineer | AI Memory Architect & Researcher
+### Android Engineer @ Scotiabank | AI Memory Architect & Researcher
 
 *Persistent memory architectures for AI agents — from spreading activation to shipping binaries.*
 
