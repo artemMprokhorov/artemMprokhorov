@@ -1,6 +1,6 @@
 # Hi there, I'm Artem! 🚀
 
-### Android Engineer @ Scotiabank | AI Memory Architect & Researcher
+### AI Engineer · MCP · Agent Memory | Founder | Android Engineer @ Scotiabank
 
 *Persistent memory architectures for AI agents — from spreading activation to shipping binaries.*
 
