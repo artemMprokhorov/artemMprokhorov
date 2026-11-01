@@ -36,7 +36,7 @@ Or a macOS disk image, Homebrew, `.deb` / `.rpm`, Docker — [install](https://g
 
 | Project | Description |
 | --- | --- |
-| **[HippoGraph Pro](https://github.com/artemMprokhorov/hippograph-pro)** | Self-hosted associative memory. BGE-M3 + BM25 + cross-encoder reranking + lateral inhibition. LOCOMO: **69.4% Recall@5**, zero LLM API cost. |
+| **[HippoGraph Pro](https://github.com/artemMprokhorov/hippograph-pro)** | Self-hosted associative memory. BGE-M3 + BM25 + cross-encoder reranking + lateral inhibition. LOCOMO retrieval adapter, zero LLM API cost. |
 | **[HippoGraph](https://github.com/artemMprokhorov/hippograph)** | Python release. Spreading activation search, entity graph, MCP integration. |
 | **[Neural Memory Graph](https://github.com/artemMprokhorov/neural-memory-graph)** | GraphRAG with associative memory and weight-based decay. |
 | **[Semantic Memory MCP](https://github.com/artemMprokhorov/semantic-memory-mcp)** | Lightweight MCP server for persistent LLM memory. Where this all started. |
