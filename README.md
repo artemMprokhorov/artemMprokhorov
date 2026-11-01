@@ -41,6 +41,8 @@ Or a macOS disk image, Homebrew, `.deb` / `.rpm`, Docker — [install](https://g
 | **[Neural Memory Graph](https://github.com/artemMprokhorov/neural-memory-graph)** | GraphRAG with associative memory and weight-based decay. |
 | **[Semantic Memory MCP](https://github.com/artemMprokhorov/semantic-memory-mcp)** | Lightweight MCP server for persistent LLM memory. Where this all started. |
 
+Dated records of what these repositories first made public, January–April 2026: **[prior-disclosures](https://github.com/Seventhwalllab/prior-disclosures)**.
+
 ---
 
 ## 🔬 Other Projects
