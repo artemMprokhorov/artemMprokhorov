@@ -45,14 +45,6 @@ Dated records of what these repositories first made public, January–April 2026
 
 ---
 
-## 🔬 Other Projects
-
-| Project | Description |
-| --- | --- |
-| **[Cinemy](https://github.com/artemMprokhorov/cinemy)** | Agentic coding benchmark — a full Android app built with zero manual code. Server-Driven UI + on-device ML. |
-
----
-
 ## 💼 Professional
 
 **Senior Android Engineer @ Scotiabank Chile (Fabrica Digital)**
