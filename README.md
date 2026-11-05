@@ -32,6 +32,10 @@ Or a macOS disk image, Homebrew, `.deb` / `.rpm`, Docker — [install](https://g
 
 **Why that matters:** when consolidation, importance, and concept extraction are implemented as model calls, they stop the moment the key is removed — and what remains is an index of logs. An Airy Spirit is built so recall, consolidation, and forgetting run with no language model present at all.
 
+## Prior Art
+
+**[prior-disclosures](https://github.com/Seventhwalllab/prior-disclosures)** — dated public records of the memory-system mechanisms I first published (Jan–Apr 2026). Commit-level evidence, GH Archive, Wayback, Software Heritage. CC BY 4.0.
+
 ### Lineage
 
 | Project | Description |
